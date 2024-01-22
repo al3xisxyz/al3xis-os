@@ -47,8 +47,8 @@
 </p>
 <br />
 
-## Running StartOS
-There are multiple ways to get started with StartOS:
+## Running Al3xisOS
+There are multiple ways to get started with Al3xisOS:
 
 ### 💰 Buy a Start9 server
 This is the most convenient option. Simply [buy a server](https://store.start9.com) from Start9 and plug it in.
@@ -63,12 +63,12 @@ This option is easier than you might imagine, and there are 4 reasons why you mi
 To pursue this option, follow one of our [DIY guides](https://start9.com/latest/diy).
 
 ## ❤️ Contributing
-There are multiple ways to contribute: work directly on StartOS, package a service for the marketplace, or help with documentation and guides. To learn more about contributing, see [here](https://start9.com/contribute/).
+There are multiple ways to contribute: work directly on Al3xisOS, package a service for the marketplace, or help with documentation and guides. To learn more about contributing, see [here](https://start9.com/contribute/).
 
 To report security issues, please email our security team - security@start9.com.
 
 ## 🌎 Marketplace
-There are dozens of services available for StartOS, and new ones are being added all the time. Check out the full list of available services [here](https://marketplace.start9.com/marketplace). To read more about the Marketplace ecosystem, check out this [blog post](https://blog.start9.com/start9-marketplace-strategy/)
+There are dozens of services available for Al3xisOS, and new ones are being added all the time. Check out the full list of available services [here](https://marketplace.start9.com/marketplace). To read more about the Marketplace ecosystem, check out this [blog post](https://blog.start9.com/start9-marketplace-strategy/)
 
 ## 🖥️ User Interface Screenshots
 
