@@ -1,6 +1,6 @@
 <div align="center">
   <img src="web/projects/shared/assets/img/icon.png" alt="StartOS Logo" width="16%" />
-  <h1 style="margin-top: 0;">StartOS</h1>
+  <h1 style="margin-top: 0;">Al3xisOS</h1>
   <a href="https://github.com/Start9Labs/start-os/releases">
     <img alt="GitHub release (with filter)" src="https://img.shields.io/github/v/release/start9labs/start-os?logo=github">
   </a>
@@ -38,7 +38,7 @@
     Welcome to the era of Sovereign Computing
   </h3>
   <p>
-    StartOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services.
+    Al3xisOS is an open source Linux distribution optimized for running a personal server. It facilitates the discovery, installation, network configuration, service configuration, data backup, dependency management, and health monitoring of self-hosted software services.
   </p>
 </div>
 <br />
